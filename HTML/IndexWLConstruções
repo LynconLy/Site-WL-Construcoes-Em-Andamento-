@@ -1,0 +1,32 @@
+<!DOCType html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="Aula de html">
+        <meta name="author" content="Carlos Lyncon">
+        <meta name="keywords" content="HTML, CSS, CML, JavaScript">
+        <meta name="viewport" content="width=device-width, inicial-scale=1.0">
+        <title>Salve Salve</title>
+        <style>
+            /* Estilo para centralizar a imagem */
+            .centralizado {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        /* Defina a imagem de fundo e ajuste a aparência */
+        </style>
+    </head>
+    <body>
+
+        <style>
+            body{
+                background-color: rgba(0, 2, 139, 0.637);
+            }
+        </style>
+        <img src="WLConstruções900x700.jpg" alt="WLConstruções" height="200" width="200" class="centralizado">
+        <h1 class="centralizado">Bem Vindo a WL Construções</h1>
+
+        <h1>Salve weltin</h1>
+    </body>
+</html>
